@@ -1,0 +1,5 @@
+body { background:#000; color:#0f0; font-family:monospace; padding:1rem; }
+#chat { max-width:800px; margin:auto; }
+.message { margin:1em 0; }
+.speaker { font-weight:bold; display:block; }
+button { background:#222; color:#0f0; border:1px solid #0f0; margin:0 .5rem; padding:.5rem 1rem; }
